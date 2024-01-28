@@ -4,15 +4,26 @@ Deep learning is a popular methodology to train hierarchical machine learning mo
 
 ## Lecture Schedule
 
-**Lecture 1: Introduction**
-**Lecture 2: A single neuron model (logistic regression)**
-**Lecture 3: Neural networks, The backpropagation learning procedure**
-**Lecture 4: Optimization: How to make the learning go faster**
-**Lecture 5: Ways to make neural networks generalize better (dropout, batch normalization)**
-**Lecture 6: CNN**
-**Lecture 7: RNN, LSTM**
-**Lecture 8: Transformers**
-**Lecture 9: Generative models, GAN, VAE**
-**Lecture 10: Application to text analysis: Learning feature vectors for words**
-**Lecture 11: Transformer**
-**Lecture 12: Graph Neural Networks**
+**Lecture 1:** Introduction
+
+**Lecture 2:** A single neuron model (logistic regression)
+
+**Lecture 3:** Neural networks, The backpropagation learning procedure
+
+**Lecture 4:** Optimization: How to make the learning go faster
+
+**Lecture 5:** Ways to make neural networks generalize better (dropout, batch normalization)
+
+**Lecture 6:** CNN
+
+**Lecture 7:** RNN, LSTM
+
+**Lecture 8:** Transformers
+
+**Lecture 9:** Generative models, GAN, VAE**
+
+**Lecture 10:** Application to text analysis: Learning feature vectors for words
+
+**Lecture 11:** Transformer
+
+**Lecture 12:** Graph Neural Networks
